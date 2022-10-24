@@ -9,9 +9,9 @@ namespace Conceitos.CSHARP.CAP01
         {
             // Tentativa de exebição de um conteudo via console do VS.
             Console.WriteLine("Olá Mundo C#! Aqui, começa o estudo da base da lp.");
-            
+            Console.WriteLine
             //Funcão de leitura de tecla, que para a execução. 
             Console.ReadKey();
-            }
+        }
     }
 }
